@@ -32,7 +32,8 @@ app.get("/contact", (request, response) => {
 
 // // // Use of Environment Variable;
 // const PORT = 1234;
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
+// // // Adding or 3000 if bymistake anything goes wrong the application should not stop working. It will work it on PORT=3000;
 
 app.listen(PORT, () => {
     console.log(`Server running at ${PORT}`);
