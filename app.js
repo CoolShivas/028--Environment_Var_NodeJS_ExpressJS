@@ -39,8 +39,8 @@ app.listen(PORT, () => {
 });
 // // // Open the terminal and write down the following commands to run/start the server :-
 // // // Firstly, clear all the things and ls to check the folder;
-// // // Secondly, if you are using the Powershell Terminal then write the command :- $env:PORT = 6789; node --watch app.js to start the server;
-// // // Finally, your server started :- Server running at 6789;
-// // // Now, open the browser and in url write localhost:6789
+// // // Secondly, if you are using the Command Prompt Terminal then write the command :- set PORT=2050 && node --watch app.js to start the server;
+// // // Finally, your server started :- Server running at 2050 
+// // // Now, open the browser and in url write localhost:2050
 // // // You will get the result on the display as :- Welcome to the Home Page.
-// // // As well as you can switch the pages as localhost:6789/about or localhost:6789/contact;
+// // // As well as you can switch the pages as localhost:2050/about or localhost:2050/contact;
