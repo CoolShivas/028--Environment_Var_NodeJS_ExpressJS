@@ -1,0 +1,19 @@
+{
+  "name": "028--environment_var_nodejs_expressjs",
+  "version": "1.0.0",
+  "main": "theoryEnv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolShivas/028--Environment_Var_NodeJS_ExpressJS.git"
+  },
+  "author": "Shiva Khatik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoolShivas/028--Environment_Var_NodeJS_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/CoolShivas/028--Environment_Var_NodeJS_ExpressJS#readme",
+  "description": ""
+}
