@@ -16,5 +16,8 @@
     "url": "https://github.com/CoolShivas/028--Environment_Var_NodeJS_ExpressJS/issues"
   },
   "homepage": "https://github.com/CoolShivas/028--Environment_Var_NodeJS_ExpressJS#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
