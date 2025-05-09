@@ -2,6 +2,7 @@
   "name": "028--environment_var_nodejs_expressjs",
   "version": "1.0.0",
   "main": "theoryEnv.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
